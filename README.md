@@ -22,10 +22,10 @@ This repository contains the Logisim Circuit Diagram of the Lab Assignments give
   4. 2-10 Counter (Sync & Async)
 
 * Lab 4
- 1. 16:1 MUX using 2:1 MUX
- 2. 7 Segment Display Decoder
+  1. 16:1 MUX using 2:1 MUX
+  2. 7 Segment Display Decoder
 
 * Lab 5
- 1. Left Shift (Arithmetic & Logical)
- 2. Right Shift (Arithmetic & Logical)
- 3. Universal Shift
+  1. Left Shift (Arithmetic & Logical)
+  2. Right Shift (Arithmetic & Logical)
+  3. Universal Shift
